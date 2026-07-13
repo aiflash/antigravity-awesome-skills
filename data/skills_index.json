@@ -20258,7 +20258,7 @@
     "path": "skills/git-pushing",
     "category": "workflow",
     "name": "git-pushing",
-    "description": "Stage all changes, create a conventional commit, and push to the remote branch. Use when explicitly asks to push changes (\"push this\", \"commit and push\"), mentions saving work to remote (\"save to github\", \"push to remote\"), or completes a feature and wants to share it.",
+    "description": "Safely stage, commit, and push intended git changes with conventional commit messages. Use for ordinary non-release pushes when explicitly asked to push, save work remotely, or share a completed change.",
     "risk": "critical",
     "source": "community",
     "date_added": "2026-02-27",
